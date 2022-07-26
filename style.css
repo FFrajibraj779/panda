@@ -1,0 +1,17 @@
+ body{
+    text-transform: capitalize;
+ }
+
+ h1, h2, h3, h4, h5, h6{
+    font-family: arial black;
+ }
+
+ p, button, a, li{
+    font-family: sans-serif;
+ }
+ .my-color{
+    background-color:#FCEAE8 ;
+ }
+ .card-border{
+    border: none;
+ }
